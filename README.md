@@ -1,38 +1,69 @@
-# 👋 Olá, eu sou Samuel Nikolas  
+# Olá, eu sou Samuel Nikolas 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unifor** (2024 – 2026).  
-💻 Focado em **desenvolvimento backend (Java/Spring Boot)** e também interessado em **mobile (Flutter)**.  
-🚀 Sempre em busca de aprender e aplicar boas práticas como **SOLID** e **GRASP** em meus projetos.  
-
----
-
-## 🔧 Tecnologias & Habilidades
-- **Linguagens:** Java, Python, JavaScript, Dart  
-- **Frameworks & Ferramentas:** Spring Boot, Flutter, Node.js  
-- **Outros:** Git/GitHub, AWS (básico), Banco de Dados  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNIFOR – 2024 a 2026)**  
+💻 Foco em **Backend (Java / Spring Boot)** e **Frontend moderno (React)**  
+🧠 Gosto de construir sistemas **bem estruturados**, com autenticação, APIs reais e arquitetura limpa.
 
 ---
 
-## 📌 Projetos em Destaque
-- 🎹 **Teclado Interativo em Flutter** → teclado infantil com som, animações e modo educativo com notas musicais.  
-- 🛒 **E-commerce em Java (Spring Boot)** → sistema backend com autenticação, produtos e pedidos.  
-- 📡 **Monitoramento de IoT** → aplicação modular aplicando princípios de **SOLID/GRASP**.  
+## 🚀 Projetos em Destaque
 
-➡️ Confira mais no meu [GitHub](https://github.com/samuca2k18).  
+### 🟦 Front Market Albion (Web)
+📌 Plataforma web para **monitoramento inteligente de preços** e **análise de mercado** do jogo *Albion Online*.  
+🔗 Repositório: https://github.com/samuca2k18/Front_Market_Albion  
+🌐 Demo: https://front-market-albion.vercel.app
+
+**Principais funcionalidades:**
+- Autenticação completa (**login, cadastro e logout com JWT**)
+- Dashboard com **melhor oportunidade de lucro**
+- Monitoramento de preços por cidade
+- Filtros por **qualidade e encantamento**
+- Histórico de preços com **gráficos (7 dias)**
+- Internacionalização (**PT-BR / EN-US**)
+- Interface responsiva e performática
+
+**Stack:**  
+React · TypeScript · Vite · TanStack Query · React Router · Tailwind CSS · Recharts · i18next · Axios · Zod
 
 ---
 
-## 🌐 Conecte-se comigo
-- 📧 **Email:** [samucanikolas3@gmail.com](mailto:samucanikolas3@gmail.com)  
-- 💼 **LinkedIn:** [Samuel Nikolas](www.linkedin.com/in/samuel-nikolas-600b78275)
-- 🐙 **GitHub:** [samuca2k18](https://github.com/samuca2k18)  
+### 🌊 Soul Surf (Full Stack)
+📌 Projeto acadêmico desenvolvido em grupo para disciplina da universidade, simulando uma **rede social moderna** com foco em posts, curtidas, comentários e chat em tempo real.  
+🔗 Repositório: https://github.com/valentimdev/Soul_Surf_PA2
+
+**Principais funcionalidades:**
+- Backend robusto com **Spring Boot**
+- Autenticação e autorização com **JWT**
+- Sistema de **posts, curtidas e comentários**
+- **Chat em tempo real** com WebSocket (STOMP)
+- Controle de permissões por papéis (roles)
+- Integração Frontend + Backend
+- Projeto organizado em camadas (controller, service, repository)
+
+**Stack:**  
+Java · Spring Boot · Spring Security · WebSocket · JWT · PostgreSQL · React · TypeScript
 
 ---
 
-## ✨ Curiosidade
-> “A tecnologia é melhor quando conecta pessoas.” – Matt Mullenweg  
+## 🧰 Tecnologias & Ferramentas
+
+- **Linguagens:** Java, TypeScript, JavaScript, Python  
+- **Backend:** Spring Boot, APIs REST, JWT, WebSocket  
+- **Frontend:** React, Vite, Tailwind, TanStack Query  
+- **Banco de Dados:** PostgreSQL  
+- **Outros:** Git, GitHub, arquitetura em camadas
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuca2k18&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuca2k18&show_icons=true&theme=radical)  
+## 📫 Contato
+
+- ✉️ Email: **samucanikolas3@gmail.com**
+- 💼 LinkedIn: **Samuel Nikolas**
+- 🧑‍💻 GitHub: **@samuca2k18**
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuca2k18&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuca2k18&show_icons=true)
