@@ -24,7 +24,7 @@
 
 ## 🌐 Conecte-se comigo
 - 📧 **Email:** [samucanikolas3@gmail.com](mailto:samucanikolas3@gmail.com)  
-- 💼 **LinkedIn:** [Samuel Nikolas](https://www.linkedin.com/in/samuca2k18) *(se quiser coloco o link exato depois)*  
+- 💼 **LinkedIn:** [Samuel Nikolas](www.linkedin.com/in/samuel-nikolas-600b78275) *(se quiser coloco o link exato depois)*  
 - 🐙 **GitHub:** [samuca2k18](https://github.com/samuca2k18)  
 
 ---
