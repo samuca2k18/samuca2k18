@@ -6,12 +6,14 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 
 ---
 
-## 📚 Formação & Foco
+## 📚 Formação & Certificados
 
-🎓 **Análise e Desenvolvimento de Sistemas** – UNIFOR (2024 - 2026)  
+🎓 **Análise e Desenvolvimento de Sistemas** – UNIFOR (2024 – 2026)  
 💻 **Backend:** Java (Spring Boot) e Python (FastAPI)  
 🎨 **Frontend:** React com TypeScript  
-🏗️ **Especialidade:** Arquitetura em Camadas, APIs REST e Autenticação Segura
+🏗️ **Especialidade:** Arquitetura em Camadas, APIs REST e Autenticação Segura  
+📱 **Mobile:** React Native com Expo (iOS e Android)  
+📜 **Foco atual:** DevOps, Docker, CI/CD e Arquitetura de Microsserviços
 
 ---
 
@@ -42,9 +44,14 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 ### Banco de Dados & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -108,6 +115,43 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 
 ---
 
+### 🤖 Aissis Back
+
+**Backend de assistente inteligente com API Python moderna**
+
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-latest-green?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-blue?style=flat-square)
+
+**Funcionalidades:**
+- 🧠 API REST para sistema de assistência inteligente
+- 🔐 Autenticação segura com JWT
+- 🏗️ Arquitetura em camadas com FastAPI e SQLAlchemy
+- 📚 Documentação automática Swagger/OpenAPI
+
+[→ Repositório](https://github.com/samuca2k18/Aissis_back)
+
+---
+
+### 🏄 Soul Surf Mobile
+
+**Aplicativo mobile da rede social Soul Surf — React Native**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
+
+**Funcionalidades:**
+- 📱 Aplicativo mobile completo para iOS e Android
+- 💬 Chat em tempo real integrado ao backend
+- 👥 Feed de posts, curtidas e comentários
+- 🔒 Autenticação via JWT
+- ⚡ Navegação fluida com Expo Router
+
+[→ Repositório](https://github.com/samuca2k18/Soul-Surf-Mobile)
+
+---
+
 ### 📊 ETL Project
 
 **Pipeline de ETL desenvolvido em Python para Data Engineering**
@@ -137,7 +181,9 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 
 ## 🎯 O Que Estou Fazendo Agora
 
-- 🔭 Desenvolvendo o ecossistema **Albion Market** (API + Frontend)
+- 🔭 Desenvolvendo o ecossistema **Albion Market** (API + Frontend + Mobile)
+- 🤖 Construindo o **Aissis** — assistente inteligente com FastAPI
+- 📱 Criando o app mobile **Soul Surf** com React Native e Expo
 - 🌱 Aprofundando conhecimentos em **Arquitetura de Software** e **Design Patterns**
 - 📚 Estudando **DevOps**, **Docker** e **CI/CD**
 - 💡 Implementando boas práticas e código limpo em todos os projetos
