@@ -148,7 +148,7 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 - 🔒 Autenticação via JWT
 - ⚡ Navegação fluida com Expo Router
 
-[→ Repositório](https://github.com/samuca2k18/Soul-Surf-Mobile)
+[→ Repositório](https://github.com/valentimdev/Soul-Surf-Mobile)
 
 ---
 
