@@ -1,23 +1,23 @@
-# Olá, eu sou Samuel Nikolas 👋
+# Hi, I'm Samuel Nikolas 👋
 
-**Backend Developer | Full Stack em evolução | Java • Python • TypeScript**
+**Backend Developer | Evolving Full Stack | Java • Python • TypeScript**
 
-Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
-
----
-
-## 📚 Formação & Certificados
-
-🎓 **Análise e Desenvolvimento de Sistemas** – UNIFOR (2024 – 2026)  
-💻 **Backend:** Java (Spring Boot) e Python (FastAPI)  
-🎨 **Frontend:** React com TypeScript  
-🏗️ **Especialidade:** Arquitetura em Camadas, APIs REST e Autenticação Segura  
-📱 **Mobile:** React Native com Expo (iOS e Android)  
-📜 **Foco atual:** DevOps, Docker, CI/CD e Arquitetura de Microsserviços
+Passionate about APIs, Clean Architecture, and Engineering Best Practices
 
 ---
 
-## 🔗 Links Importantes
+## 📚 Education & Focus
+
+🎓 **Systems Analysis and Development** – UNIFOR (2024 – 2026)
+💻 **Backend:** Java (Spring Boot) and Python (FastAPI)
+🎨 **Frontend:** React with TypeScript
+📱 **Mobile:** React Native with Expo (iOS & Android)
+🏗️ **Specialty:** Layered Architecture, REST APIs, and Secure Authentication
+📜 **Current focus:** DevOps, Docker, IaC (Terraform + Ansible), Microservices Architecture
+
+---
+
+## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nikolas)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samucanikolas3@gmail.com)
@@ -27,7 +27,7 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 
 ## 🛠️ Tech Stack
 
-### Linguagens
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,122 +48,124 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Banco de Dados & DevOps
+### Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🛡️ Albion Market API
 
-**API REST profissional para monitoramento de preços do mercado de Albion Online**
+**Professional REST API for real-time Albion Online market price monitoring**
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.121-green?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-blue?style=flat-square)
 
-**Funcionalidades:**
-- 🔐 Autenticação com JWT e hash seguro (PBKDF2-SHA256)
-- 📦 Gerenciamento de itens para monitoramento de preços
-- 💰 Integração com API oficial do Albion para consulta em tempo real
-- 🏗️ Arquitetura em camadas com SQLAlchemy ORM e Pydantic
-- 📚 Documentação automática com Swagger/OpenAPI
+**Highlights:**
+- 🔐 JWT authentication with PBKDF2-SHA256 hashing + mandatory email verification (Resend API, 24h token TTL)
+- 🔔 Intelligent price alerts: manual target price or AI-based expected price (median/mean over configurable history window)
+- 🌍 Multi-region support (Europe / America / Asia); TTL cache (5 min prices, 10 min history)
+- 🔍 Local item index (~100k items) in PT-BR & EN-US with exact + fuzzy search
+- 🏗️ Layered architecture (Router → Service → Repository) following SOLID; Alembic versioned migrations
+- ⚙️ GitHub Actions CI/CD; Swagger/OpenAPI auto-docs; deployed on Vercel via Render
 
-[→ Repositório](https://github.com/samuca2k18/Market_Albion_Online)
+[→ Repository](https://github.com/samuca2k18/Market_Albion_Online) | [🌐 Live API](https://market-albion-online.vercel.app)
 
 ---
 
-### 🟦 Front Market Albion
+### 🟦 Market Albion — Intelligent Price Dashboard
 
-**Plataforma web para análise inteligente de mercado do Albion Online**
+**Full-stack web platform for Albion Online market analysis**
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square)
 
-**Funcionalidades:**
-- 📊 Dashboard com melhor oportunidade de lucro
-- 📈 Histórico de preços com gráficos interativos (Recharts)
-- 🌍 Internacionalização (PT-BR / EN-US) com i18next
-- 🔍 Filtros avançados por qualidade, encantamento e cidade
-- ⚡ Performance otimizada com TanStack Query
+**Highlights:**
+- 📊 Profit-opportunity dashboard with interactive price history charts (Recharts)
+- 🔍 Advanced filters by quality, enchantment, and city
+- 🌍 Full internationalization (PT-BR / EN-US) with i18next
+- ⚡ Optimized data fetching with TanStack Query
 
-[→ Repositório](https://github.com/samuca2k18/Front_Market_Albion) | [🌐 Demo ao Vivo](https://front-market-albion.vercel.app)
+[→ Repository](https://github.com/samuca2k18/Front_Market_Albion) | [🌐 Live Demo](https://front-market-albion.vercel.app)
 
 ---
 
-### 🌊 Soul Surf (Full Stack)
+### 🌊 Soul Surf — Social Network for Surfers (Full Stack)
 
-**Rede social moderna com posts, curtidas e chat em tempo real**
+**Complete social platform with real-time features and full Infrastructure as Code**
 
 ![Java](https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-010101?style=flat-square)
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square)
+![Terraform](https://img.shields.io/badge/IaC-Terraform+Ansible-844FBA?style=flat-square)
 
-**Funcionalidades:**
-- 💬 Chat em tempo real com WebSocket (STOMP)
-- 🔒 Autenticação e autorização com Spring Security + JWT
-- 👥 Sistema de posts, curtidas e comentários
-- 🎯 Controle de permissões por roles
-- 🏛️ Arquitetura em camadas (Controller → Service → Repository)
+**Highlights:**
+- 📰 Social feed (public/private posts with photo upload), nested comments, @mention system with smart autocomplete
+- 💬 Real-time direct messaging via WebSocket/STOMP; real-time notifications for mentions and comments
+- 🏖️ Beach catalog with location-based posts and community wall (mural)
+- ☀️ OpenWeather API integration for live surf conditions per beach
+- 👮 Admin panel: platform metrics, audit logs, content moderation (ban/unban), role management
+- 🚀 Full IaC: Terraform (cloud provisioning) + Ansible (deploy automation) + Docker Compose; GitHub Actions CI/CD; deployed on Oracle Cloud
 
-[→ Repositório](https://github.com/valentimdev/Soul_Surf_PA2)
+[→ Repository](https://github.com/valentimdev/Soul_Surf_PA2) | [🌐 Live Demo](https://soul-surf-pa-2.vercel.app)
 
 ---
 
-### 🤖 Aissis Back
+### 🎹 IAssis Pianos — CRM & WhatsApp Bot
 
-**Backend de assistente inteligente com API Python moderna**
+**Commercial CRM, digital secretary, and WhatsApp chatbot for a real piano business client**
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-latest-green?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-blue?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Oracle_Cloud-2496ED?style=flat-square)
 
-**Funcionalidades:**
-- 🧠 API REST para sistema de assistência inteligente
-- 🔐 Autenticação segura com JWT
-- 🏗️ Arquitetura em camadas com FastAPI e SQLAlchemy
-- 📚 Documentação automática Swagger/OpenAPI
+**Highlights:**
+- 📋 Full sales pipeline: lead management with temperature scoring, deal tracking (quote → negotiation → closed/lost)
+- 📄 Automated PDF generation (ReportLab): quotes, receipts, and rental contracts with company branding
+- 🤖 Interactive WhatsApp bot via Evolution API v2: state-machine menu, collects customer data, generates & sends PDFs in-chat
+- 📅 Appointment scheduling module; KPI dashboard endpoint; daily summary scheduler
+- 🔒 Deployed on Oracle Cloud VM with Docker Compose; Alembic migrations; API key & webhook token security hardening
 
-[→ Repositório](https://github.com/samuca2k18/Aissis_back)
+[→ Repository](https://github.com/samuca2k18/Aissis_back)
 
 ---
 
 ### 🏄 Soul Surf Mobile
 
-**Aplicativo mobile da rede social Soul Surf — React Native**
+**Cross-platform mobile app (iOS/Android) for the Soul Surf social platform**
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
 
-**Funcionalidades:**
-- 📱 Aplicativo mobile completo para iOS e Android
-- 💬 Chat em tempo real integrado ao backend
-- 👥 Feed de posts, curtidas e comentários
-- 🔒 Autenticação via JWT
-- ⚡ Navegação fluida com Expo Router
+**Highlights:**
+- 📱 Complete mobile experience: feed, posts, comments, real-time DM chat, JWT auth
+- 🗺️ File-based navigation with Expo Router; EAS Build configuration
+- ✅ Jest unit tests; TypeScript strict mode; Oracle Cloud backend
 
-[→ Repositório](https://github.com/valentimdev/Soul-Surf-Mobile)
+[→ Repository](https://github.com/valentimdev/Soul-Surf-Mobile)
 
 ---
 
 ### 📊 ETL Project
 
-**Pipeline de ETL desenvolvido em Python para Data Engineering**
+**Python ETL pipeline for Data Engineering**
 
 ![Python](https://img.shields.io/badge/Python-Data_Engineering-3776AB?style=flat-square)
 
-**Funcionalidades:**
-- 🔄 Extração, transformação e carregamento de dados
-- 📁 Processamento automatizado de arquivos
-- 📈 Pipeline robusto e escalável
+**Highlights:**
+- 🔄 Automated extraction, transformation, and loading of structured data
+- 📁 Modular pipeline architecture — scalable and easy to extend
 
-[→ Repositório](https://github.com/samuca2k18/ETL_project)
+[→ Repository](https://github.com/samuca2k18/ETL_project)
 
 ---
 
@@ -179,44 +181,43 @@ Apaixonado por APIs, Arquitetura Limpa e Boas Práticas de Desenvolvimento
 
 ---
 
-## 🎯 O Que Estou Fazendo Agora
+## 🎯 What I'm Working On
 
-- 🔭 Desenvolvendo o ecossistema **Albion Market** (API + Frontend + Mobile)
-- 🤖 Construindo o **Aissis** — assistente inteligente com FastAPI
-- 📱 Criando o app mobile **Soul Surf** com React Native e Expo
-- 🌱 Aprofundando conhecimentos em **Arquitetura de Software** e **Design Patterns**
-- 📚 Estudando **DevOps**, **Docker** e **CI/CD**
-- 💡 Implementando boas práticas e código limpo em todos os projetos
-- 🚀 Explorando **Microsserviços** e **Event-Driven Architecture**
+- 🔭 Expanding the **Albion Market** ecosystem (API + Frontend)
+- 🎹 Maintaining and evolving **IAssis Pianos** CRM for production use
+- 🌱 Deepening knowledge in **Software Architecture** and **Design Patterns**
+- 📚 Studying **DevOps**, **Kubernetes**, and **Microservices**
+- 💡 Applying clean code and best practices across all projects
+- 🚀 Exploring **Event-Driven Architecture**
 
 ---
 
 ## 💡 Mindset
 
-Acredito que código bom é código que resolve problemas, é fácil de entender e fácil de manter. Sempre busco:
+I believe good code is code that solves real problems, is easy to understand, and easy to maintain. I always strive for:
 
-✅ Arquitetura limpa e escalável  
-✅ Testes e documentação de qualidade  
-✅ Segurança desde o início  
-✅ Performance otimizada  
-✅ Colaboração e troca de conhecimento
+✅ Clean and scalable architecture
+✅ Quality tests and documentation
+✅ Security from day one
+✅ Optimized performance
+✅ Collaboration and knowledge sharing
 
 ---
 
-## 💬 Vamos Conversar?
+## 💬 Let's Connect!
 
-Estou sempre aberto a novas oportunidades, desafios e colaborações!
+I'm always open to new opportunities, challenges, and collaborations.
 
 - 📧 **Email:** samucanikolas3@gmail.com
 - 🔗 **LinkedIn:** [samuel-nikolas](https://www.linkedin.com/in/samuel-nikolas)
 - 💻 **GitHub:** [@samuca2k18](https://github.com/samuca2k18)
 
-⭐ **Se gostou dos meus projetos, deixe uma estrela!**
+⭐ **If you found my projects interesting, consider leaving a star!**
 
 ---
 
 <div align="center">
 
-![Visitantes](https://komarev.com/ghpvc/?username=samuca2k18&color=6C63FF&style=flat-square&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=samuca2k18&color=1A56DB&style=flat-square&label=Visitors)
 
 </div>
